@@ -1,0 +1,7 @@
+#a = str(input("what is your name\n"))
+#print(a)
+#b = int(input("what is your age\n"))
+#print(b)
+name = input("enter name:")
+age = input("enter age:")
+print("my name is "+ name +",I am "+ age +" year old")
